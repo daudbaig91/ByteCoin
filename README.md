@@ -2,7 +2,7 @@
 
 A simple IOS Learning App which uses the coinapi API to show the most current Bitcoin Rate in Different Currencies.
 
-
+Thank You for reading;  // :)
 
 
 
